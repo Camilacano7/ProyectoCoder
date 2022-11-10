@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color: chocolate;
+    background-color: rgb(40, 64, 107);
+    padding: 10px;
+}
+h2{
+    color: chocolate;
+    background-color: rgb(40, 64, 107) ;
+    text-align: center;
+}
+nav{
+    position: relative;
+    left: 27%;
+}
+nav li{
+    border: 5px double chocolate;
+    padding: 4px;
+    font-size: 18px;
+    display: inline-block;
+    justify-content: space-around;
+    list-style: none;
+}
+a{
+    color: chocolate;
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+}
+.imagen_super{
+    padding: 4px;
+    width: 45vh;
+    display: inline-block;
+    margin: auto auto;
+    /* height: 10px; */
+}
+
+.image_container li {
+    display: inline;
+}
